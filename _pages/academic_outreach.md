@@ -7,10 +7,11 @@ nav: true
 nav_order: 5
 ---
 
-I frequently present my work at academic conferences and seminars, both nationally and internationally, to get into a dialogue on my work with other scholars working in similar areas. An extended list can be found in my CV or upon request.
+I frequently present my work at academic conferences and seminars, both nationally and internationally, to get into a dialogue with other scholars working in similar areas.
 
 ### Selected Presentations
-
+* Rickert, M. (2023, 04-04) Organizing peer relations in peripheral places in Early Childhood Care and Education. EELCE9. UCL Centre for Applied Linguistics: London.
+* Rickert, M. (2023, 16-02) Emotions in the Dutch as Second Language Classroom: Newcomers’ affective engagements during Language Learning. NL Lab Lunch lecture. KNAW Humanities Cluster: Amsterdam.
 * Rickert, M. (2023, 16-01) ‘arbuz vs. Melone’ - Social meanings of different languages in a 
 linguistically diverse kindergarten in Germany [poster presentation]. LOT 
 winterschool. University of Amsterdam: Amsterdam.
@@ -44,7 +45,6 @@ peuteropvang in Limburg. [Poster presentation] ‘Talige diversiteit in het onde
 language socialisation in day-cares at the southern German-Dutch border. 16. Sprachwissenschaftliche Tagung für Promotionsstudierende, University of Vienna. Vienna/online.
 * Rickert, M., Cornips, C. (2020, 17-9). Language socialisation into language ideologies in day 
 cares at the southern German-Dutch border (Invited Talk). Language Learning Research Group. University of Amsterdam. Amsterdam/online.
-
 * Rickert, M. (2018, 29-9). Die produktive Schwelle. Zum Umgang mit Liminalität im 
 Zweitsprachenunterricht. Interimstagung der AG Ethnologische Bildung der DGSKA. Teaching Anthropology, Universität Heidelberg.
 

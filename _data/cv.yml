@@ -17,10 +17,11 @@
 - title: Education
   type: table
   contents:
-  - title: Maastricht University | Department of Literature and Arts | The Netherlands  & University of Münster | Institute of Dutch Philology| Germany (double degree)  – Ph.D., Linguistic Anthropology
-    year: 2020 - present
+  - title: Maastricht University | Department of Literature and Arts | The Netherlands  & University of Münster | Institute of Dutch Philology| Germany (double degree)  – Ph.D., Linguistic Anthropology | Germany
+    year: 2020 - Now
     location: The Netherlands
     description:
+     - My PhD project focuses on children’s and teachers’ participation in language practices in in linguistically diverse Early Childcare and Education on both sides of the German-Dutch border.
     # - 'Doctoral Thesis: <a href="https://cris.maastrichtuniversity.nl/en/publications/bimodal-emotion-recognition-through-audio-visual-cues" target="_blank"><b>Bimodal Emotion Recognition Through Audio-Visual Cues</b></a>'
     # - 'Thesis committee: Tom Mitchell, Barnabàs Pòczos, Ruslan Salakhutdinov, Rich Caruana'
   - title: University of Amsterdam | Faculty of Social and Behavioral Sciences| The Netherlands 
@@ -35,7 +36,7 @@
     # - 'GPA: 4.0 (4.0 scale)'
     # - 'Master Thesis: <a href="https://polen.itu.edu.tr:8443/server/api/core/bitstreams/1a23f86f-c1af-473c-aeb1-9d0ebe950438/content" target="_blank"><b>Face Track Retrieval and Recognition Across Age</b></a>'
     # - 'Master’s degree requirements completed while working towards obtaining my Ph.D.'
-  - title: University of Bremen | Department of Anthropology and Cultural Research
+  - title: University of Bremen | Department of Anthropology and Cultural Research | Germany
     year: 2014 - 2017 
     location: Germany
     description: 
@@ -49,21 +50,21 @@
 - title: Academic Positions
   type: table
   contents:
-  - title: 02/2020 - currently | PhD candidate | Maastricht University, Department of Literature and Arts  
-    year: 02/2020 - currently
+  - title: PhD candidate | Maastricht University, Department of Literature and Arts | The Netherlands 
+    year: 02/20 - now
     ocation: Maastricht, The Netherlands
     description:
       - Project - “Shaping participation - Children’s and Teachers’ Language Practices in Linguistically Diverse Early Childhood Education and Care”
       - Supervisors - Prof. Leonie Cornips, Prof. Gunther De Vogelaer, Dr. Christine Arnold
       - Funding - European Commission’s Marie-Curie COFUND program in the scope of the LIMES project.
   - title: Guest researcher | KNAW Humanities Cluster | NL lab | The Netherlands
-    year: 12/2022 – currently
+    year: 12/22 - now
     location: Amsterdam, The Netherlands
     description: 
       - Preparation of a personal grant proposal with the preliminary title “Emotions in the Dutch as Second Language Classroom, Newcomers’ affective engagements during Language Learning” 
       - Research Dissemination
-  - title: Visiting Scholar| University of Münster | Institute of Dutch Philology | 
-    year: 09/2021 – 02/2022
+  - title: Visiting Scholar| University of Münster | Institute of Dutch Philology | Germany
+    year: 09/21 – 02/22
     location: Münster, Germany
     description: 
       - Visiting Scholar
@@ -73,7 +74,7 @@
 - title: Scholarships & Grants
   type: table
   contents:
-  - title: Research Valorization Fund, Maastricht University Faculty of Arts and Social Sciences
+  - title: Research Valorization Fund, Maastricht University Faculty of Arts and Social Sciences | The Netherlands
     year: 2022
     description: 
     - Creation of a children’s book as research dissemination
