@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Affiliation - <a href=https://www.maastrichtuniversity.nl/about-um/faculties/faculty-arts-and-social-sciences>FASoS</a> at <a href=https://www.maastrichtuniversity.nl>Maastricht University</a>. Address - Grote Gracht 90-92, 6211 SZ Maastricht, The Netherlands.
+subtitle: Affiliation - <a href=https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/departments/department-literature-art> Department of Literature and Art </a>, <a href=https://www.maastrichtuniversity.nl/about-um/faculties/faculty-arts-and-social-sciences>Faculty of Arts and Social Sciences</a> at <a href=https://www.maastrichtuniversity.nl>Maastricht University</a> & <a href=https://www.uni-muenster.de/INP> Institute of Dutch Philology </a> at <a href=https://www.uni-muenster.de> the University of Münster </a>. Address at Maastricht University - Grote Gracht 90-92, 6211 SZ Maastricht, The Netherlands.
+
+
 
 profile:
   align: right
