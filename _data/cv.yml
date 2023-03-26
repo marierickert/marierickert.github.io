@@ -6,7 +6,7 @@
   - name: Contact
     value:  m.rickert@maastrichtunviersity.nl
   - name: Languages
-    value: German (native), English (C2), Dutch (C2), French (B2); Arabic (B2)
+    value: German (C2), English (C2), Dutch (C1), French (B2); Arabic (B1/2)
 
 - title: Research Areas
   type: list
@@ -17,7 +17,7 @@
 - title: Education
   type: table
   contents:
-  - title: Maastricht University| Department of Literature and Arts | The Netherlands  & University of Münster | Institute of Dutch Philology| Germany (double degree)  – Ph.D., Linguistic Anthropology
+  - title: Maastricht University | Department of Literature and Arts | The Netherlands  & University of Münster | Institute of Dutch Philology| Germany (double degree)  – Ph.D., Linguistic Anthropology
     year: 2020 - present
     location: The Netherlands
     description:
@@ -76,11 +76,11 @@
   - title: Research Valorization Fund, Maastricht University Faculty of Arts and Social Sciences
     year: 2022
     description: 
-    - EUR 2000,- for the creation of a children’s book as research dissemination (project currently in progress)
-  - tite: DIA-Stipend, Duitslanddesk
+    - Creation of a children’s book as research dissemination
+  - title: DIA-Stipend, Duitslanddesk
     year: 2021
     description:
-      - EUR 2200,- for fieldwork in a kindergarten in Germany	
+      - Fieldwork in a kindergarten in Germany	
   - title: Ibn Battuta Merit Scholarship for Peace and Diplomacy
     year: 01-04/2019	
     description: 
@@ -92,7 +92,7 @@
   - title: Zis Stiftung für Studienreisen
     year: 2015
     description: 
-      - EUR 600,- for research trip “Bilingualism in Brussels”
+      - Research trip “Bilingualism in Brussels”
 
 
   #   description:

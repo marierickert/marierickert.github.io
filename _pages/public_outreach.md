@@ -5,7 +5,7 @@ permalink: /public_outreach/
 description: My public outreach extends beyond academic audiences. It is characterized by its accessibility as well as its multilingual character. Aiming to inform broader audiences about current research developments, I have given public presentations and engaged with diverse audiences ranging from children to Limburgish Troubadours. Please find a selection of my public outreach below.
 nav: true
 nav_order: 6
-display_categories: [Public Outreach]
+display_categories: [Activities]
 horizontal: false
 ---
 <!-- pages/projects.md -->

@@ -13,42 +13,42 @@ In the academic year 2023-2023, I am taking part in the University-Teaching-Qual
 
 ### University courses
 
-* 2021 - 2022 | University of Münster | Germany
+* 2021 - 2022 - University of Münster, Germany
   * Talige praktijken en taalbeleid in een diverse samenleving 
   * Bachelor Dutch Studies
   * Responsible for Course Development & Teaching
-* 2020| Maastricht University | The Netherlands  
+* 2020 - Maastricht University, The Netherlands  
   * After Babel - Language Policies in Europe 
   * Tutoring for two groups
 
 
 ### Other teaching experience	
-* 05/2019 – 11/2019| Prépa Deutsch | Rabat, Morocco	
+* 05/2019 – 11/2019 - Prépa Deutsch, Rabat, Morocco	
   * Teaching of two B2 German courses 
   * Exam preparation with multiple courses on A2, B1, and B2 levels
-* 01/2018 – 12/2018 & 01/2020 – 05/2020| Freelance Online German Teaching
+* 01/2018 – 12/2018 & 01/2020 – 05/2020 - Freelance Online German Teaching
   * Online classes with Individual Intermediate & Advanced German learners
-* 09/2017 – 12/2017| TRY - Teaching Romanian Youth | Bucharest, Romania	
+* 09/2017 – 12/2017 - TRY - Teaching Romanian Youth, Bucharest, Romania	
   * Beginner, Intermediate & Advanced German courses
   * Course Development & Teaching
-* 09/2017 – 12/2017| Gymnázium Matyáše Lercha high school | Brno, Czech Republic
+* 09/2017 – 12/2017 - Gymnázium Matyáše Lercha high school, Brno, Czech Republic
   * ‘kulturweit’ voluntary service 
   * Teaching Assistant German
 
 ### Invited guest lectures
-* 12/2022| University of Münster | Germany
+* 12/2022 - University of Münster, Germany
   *	Course: Van Uk & Puk tot Nijntje en juf Roos: Educatieve media voor jonge taalleerders
   * Title: Kinderopvang als arena voor taalsocialisatie: Ontluikende geletterdheid
-* 05/2022| Maastricht University | The Netherlands
+* 05/2022 - Maastricht University, The Netherlands
   * Course: After Babel: Language Policies in Europe
   * Title: Linguistic Ethnography in Early Education
-* 05/2022| University of Duisburg-Essen | Germany
+* 05/2022 - University of Duisburg-Essen, Germany
   * Course: Methoden und Theorien der Soziolinguistik
   * Title: Linguistische Ethnographie über und mit Kindern
-* 04/2022| University of Münster | Germany
+* 04/2022 - University of Münster, Germany
   * Project Days: Meertaligheid en pluriculturaliteit in de schoolcontext en in de taalles
   * Title: Aanpak van meertaligheid in het onderwijs
 
 ### Mentoring
-* 10/2017 – 09/2018| Language Centre of the Universities in the Land of Bremen | Germany
+* 10/2017 – 09/2018| Language Centre of the Universities in the Land of Bremen, Germany
   *INTEGRA Language Learning Facilitation for German learning refugees

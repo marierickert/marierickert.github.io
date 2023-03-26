@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Workshop for children
-description: Meertalige kinderen in een meertalige wereld is an interactive workshop for children to engage with language and multilingualism in the social world.
+description: The interactive workshop 'Meertalige kinderen in een meertalige wereld' engages children with the topic of language and multilingualism in the social world.
 img: assets/img/Workshopforchidren1.jpeg
 importance: 3
-category: Public Outreach
+category: Activities
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

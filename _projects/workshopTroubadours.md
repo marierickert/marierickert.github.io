@@ -4,7 +4,7 @@ title: Troubadours
 description: Workshop on Limburgish children’s songs for Troubadours
 img: assets/img/workshopTroubadours.jpeg
 importance: 4
-category: Public Outreach
+category: Activities
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

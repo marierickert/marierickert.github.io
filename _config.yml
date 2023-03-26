@@ -6,7 +6,7 @@ title: Marie Rickert # the website title (if blank, full name will be used inste
 first_name: Marie
 middle_name:
 last_name: Rickert
-email: marie.rickert@aol.de
+email: m.rickert@maastrichtuniversity.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: marierickert # your GitHub user name
+# github_username: marierickert # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: marie_rickert # your Twitter handle
 linkedin_username: marie-rickert # your LinkedIn user name

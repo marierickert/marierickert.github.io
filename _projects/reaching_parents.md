@@ -4,7 +4,7 @@ title: Flyer for parents
 description: As a note of appreciation, I created the flyer ‘Taalgebruik op de peuterspeelzaal’ (Language use at pre-school) for the parents of children who participated in my research. 
 img: assets/img/reaching_parents.jpeg
 importance: 7
-category: Public Outreach
+category: Activities
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

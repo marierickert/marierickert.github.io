@@ -4,7 +4,7 @@ title: Studium Generale lecture
 description: Studium Generale lecture in the scope of the series Im Gespräch/In gesprek organized by the public libraries Venlo and Krefeld.
 img: assets/img/studiumgenerale.jpeg
 importance: 2
-category: Public Outreach
+category: Activities
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
