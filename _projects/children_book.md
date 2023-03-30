@@ -18,11 +18,6 @@ category: Activities
 Eli brengt een ochtend door op de kinderopvang en uit elke hoek komt muziek! Waar zal ze het volgende liedje horen, zien of voelen? Eli verbringt einen Morgen im Kindergarten und aus allen Ecken kommt Musik! Wo hört, sieht oder fühlt sie wohl das nächste Lied?
 
 <!-- Place PDF download link at the top right. -->
+This book is a collaboration between illustrator [Léonie Smith](https://www.leoniesmithillustrations.com/) and me. Please click <a href="/assets/pdf/Zingjemee_Singstdumit_Publicversion.pdf" target="_blank">here</a> to download it.
 
-To download the book, click on the icon on the right:
-<div class="row" style="margin-bottom: q.5em;">
-	<a class="ml-auto mr-2" href="/assets/pdf/Zingjemee_Singstdumit_Publicversion.pdf" target="_blank">
-	  <img height="60px" src="/assets/img/childrenbook.jpeg">
-	</a>
-</div>
 
