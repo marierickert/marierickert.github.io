@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Troubadours
-description: Workshop on Limburgish children’s songs for Troubadours
+description: Workshop on children’s songs for Limburgish Troubadours
 img: assets/img/workshopTroubadours.jpeg
 importance: 4
 category: Activities

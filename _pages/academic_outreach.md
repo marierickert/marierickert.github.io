@@ -53,7 +53,7 @@ Zweitsprachenunterricht. Interimstagung der AG Ethnologische Bildung der DGSKA. 
 taking. [presentation of data in Data session]. Child Interaction Data Sessions, Linköping University/online.
 * Rickert, M. (2021, 16-04). Place-making in corridor interactions in pre-school. [presentation 
 of data in Data session]. Child Interaction Data Sessions, Linköping University/online.
-Smolka, M., Rickert, M., Strijbosch, K., (2020, 29-10). How to do practice theory in practice? 
+* Smolka, M., Rickert, M., Strijbosch, K., (2020, 29-10). How to do practice theory in practice? 
 Getting lost and finding our ways in the praxiographic jungle. UM Ethnography group, Maastricht University/online.
 * Rickert, M., van Bloois, A. (2020, 17-12). Language(s) and the ethnographer. Researching 
 multilingually and with awareness for linguistic diversity. UM Ethnography group, Maastricht University/online.

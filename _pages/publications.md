@@ -16,6 +16,8 @@ The underlying theme of my research is the broad interest in the processes throu
 
 ### Publications
 
+A list of work in progress and papers under submission is available upon request.
+
 <!-- _pages/publications.md -->
 
 <div class="publications">
