@@ -9,7 +9,7 @@ nav_order: 3
 
 As a teacher, I devote much attention not only to the learning outcomes but to the whole learning process as I see these two elements as closely interrelated. Therefore, I strive to create a positive and inclusive learning environment in which all students are valued and heard. As every student is an active participant in the learning process, I strongly believe in the importance of respecting the unique experiences and knowledge that each student brings to the classroom. By building on their existing understanding, I aim to create a personalized and engaging learning experience that empowers students to take ownership of their own education. Being deeply passionate about language-cultural processes as well as the broader Social Sciences and the Humanities, I am excited to share this enthusiasm with my students. My goal is to foster a curiosity about the complex processes of human life and the subject matter rather than enhancing students’ mere focus on assessment. I believe that encouraging students to engage with the course content in an enthusiastic and joyful way can enhance their interest in the subject and, thereby, eventually create a more meaningful learning experience for them. 
 
-In the academic year 2022-2023, I am taking part in the University-Teaching-Qualification-trajectory. 
+I received the University Teaching Qualification in Fall 2023.
 
 ### University courses
 

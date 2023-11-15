@@ -10,6 +10,9 @@ nav_order: 5
 I frequently present my work at academic conferences and seminars, both nationally and internationally, to get into a dialogue with other scholars working in similar areas.
 
 ### Selected Presentations
+* Naami, M., Rickert, M., Schenetti, C. (2023, 27-10) Embodying borders? Practices of Doing ethnographic fieldwork [roundtable discussion]. LIMES – The Hardening and Softening of Borders in Europe – final conference. Maastricht University: Maastricht.
+* Rickert, M. (2023, 07-07) Ethnographic explorations of participation in linguistically diverse pre-school. Third Wave Sociolinguistics in the Netherlands. NL Lab/Leiden University: Amsterdam.
+* Rickert, M. (2023, 02-06) Language, World and Mind in Entangled Encounters: Researcher-Child-Interaction as a research site. VUB/KU Leuven: Brussels.
 * Rickert, M. (2023, 04-04) Organizing peer relations in peripheral places in Early Childhood Care and Education. EELCE9. UCL Centre for Applied Linguistics: London.
 * Rickert, M. (2023, 16-02) Emotions in the Dutch as Second Language Classroom: Newcomers’ affective engagements during Language Learning. NL Lab Lunch lecture. KNAW Humanities Cluster: Amsterdam.
 * Rickert, M. (2023, 16-01) ‘arbuz vs. Melone’ - Social meanings of different languages in a 
@@ -49,6 +52,8 @@ cares at the southern German-Dutch border (Invited Talk). Language Learning Rese
 Zweitsprachenunterricht. Interimstagung der AG Ethnologische Bildung der DGSKA. Teaching Anthropology, Universität Heidelberg.
 
 ### Workshops and Data Sessions for Peers & Colleagues
+* Rickert, M. (2023, 22-09) Pre-school literacy practices [presentation of data in Data session]. Child Interaction Data Sessions, Linköping University/online.
+* Rickert, M. (2023, 20-04) Childhood Ethnography. UM Ethnography group, Maastricht University/online.
 * Rickert, M. (2021, 26-11). ’Can you fix it?’ Peer recruitment and the socialization of turn 
 taking. [presentation of data in Data session]. Child Interaction Data Sessions, Linköping University/online.
 * Rickert, M. (2021, 16-04). Place-making in corridor interactions in pre-school. [presentation 

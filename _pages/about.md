@@ -8,7 +8,7 @@ subtitle: Affiliation - <a href=https://www.maastrichtuniversity.nl/about-um/fac
 
 profile:
   align: right
-  image: marie.jpg
+  image: marie.jpeg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
