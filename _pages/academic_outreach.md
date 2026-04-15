@@ -3,8 +3,8 @@ layout: page
 permalink: /academic_outreach/
 title: Academic Outreach
 description: 
-nav: true
-nav_order: 5
+nav: false
+nav_order: 6
 ---
 
 I frequently present my work at academic conferences and seminars, both nationally and internationally, to get into a dialogue with other scholars working in similar areas.

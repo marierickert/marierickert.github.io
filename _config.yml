@@ -6,7 +6,7 @@ title: Marie Rickert # the website title (if blank, full name will be used inste
 first_name: Marie
 middle_name:
 last_name: Rickert
-email: m.rickert@maastrichtuniversity.nl
+email: marie.rickert@ru.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -19,7 +19,7 @@ icon: MR_logo1.png  # the emoji used as the favicon (alternatively, provide imag
 
 url: https://marierickert.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 # github_username: marierickert # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: marie_rickert # your Twitter handle
+# twitter_username: marie_rickert # your Twitter handle
 linkedin_username: marie-rickert # your LinkedIn user name
 scholar_userid: HB6DH6AAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
