@@ -2,7 +2,7 @@
 layout: page
 permalink: /public_outreach/
 title: Public Outreach
-description: Public activities and outreach to diverse audiences.
+# description: Public activities and outreach to diverse audiences.
 img: assets/img/collage.png
 nav: true
 nav_order: 5
