@@ -1,15 +1,21 @@
 ---
 layout: page
-title: Children's Book
-permalink: /children-book/
-description: "A bilingual children’s book based on research on pre-schoolers’ singing."
-img: assets/img/zing-je-mee.jpg
+title: Children's book
+description: The bilingual children's book 'Zing je mee? - Singst du mit?', written in Dutch and German, serves as a tool for disseminating research findings.
+img: assets/img/childrenbook.jpeg
 importance: 1
 category: Activities
 ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/childrenbook.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
 
-Together with illustrator Léonie Smith, I created the bilingual children’s book *Zing je mee? – Singst du mit?*. The book translates my *Learning, Culture and Social Interaction* article on pre-schoolers’ singing into a format accessible to toddlers.
-<!-- Place PDF download link at the top right. -->
-This book is a collaboration between illustrator [Léonie Smith](https://www.leoniesmithillustrations.com/) and me. Please click <a href="/assets/pdf/Zingjemee_Singstdumit_Publicversion.pdf" target="_blank">here</a> to download it.
+Together with illustrator Léonie Smith, I created the bilingual children’s book Zing je mee? - Singst du mit?. The book translates my LCSI-article ‘about pre-schoolers’ singing (Rickert, 2022) into a fun and engaging version that is accessible for toddlers.
+
+Click <a href="/assets/pdf/Zingjemee_Singstdumit_Publicversion.pdf" target="_blank">here</a> to download it.
 
 

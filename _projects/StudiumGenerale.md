@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Studium Generale lecture
-description: Studium Generale lecture in the scope of the series Im Gespräch/In gesprek organized by the public libraries Venlo and Krefeld.
+title: Public Talks
+description: Public talks and presentations.
 img: assets/img/studiumgenerale.jpeg
 importance: 2
 category: Activities
@@ -14,5 +14,4 @@ category: Activities
 <div class="caption">
 </div>
 
-Jointly with Prof. Leonie Cornips, I gave a Studium Generale lecture in the scope of the series Im Gespräch/In gesprek organized by the public libraries Venlo and Krefeld. The event was moderated by Ludger Kazmierczak.
-
+I am regularly speaking at events for different target groups. For example at Cultuurcentrum De Buren in Brussels, where I discussed language attitudes with Gunther De Vogelaer at the Colloquium Neerlandicum (2025), or at the Erfgoedcentrum Achterhoek en Liemers where I was an invited panelist at the Streektaalsymposium “Plat veur Potwottels (2023). At the UM WizzKidz Summercamp, I gave a workshop on multilingualism to children (2022).
