@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: cv
 ---
-A complete CV is available upon request.
+A full CV is available upon request.
 
 <!-- <div class="row" style="margin-top: -3.5em;">
 	<a class="ml-auto mr-2" href="/assets/pdf/vitae.pdf" target="_blank">
