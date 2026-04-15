@@ -37,7 +37,7 @@ I also regularly deliver invited guest lectures and workshops at universities an
 
 I have experience supervising student assistants, thesis students, and researchers at **B.A., M.A., and PhD level**. I am currently the daily supervisor of **PhD candidate Maartje Roodzant**, whose project focuses on affirmation in psychotherapy and counselling (co-supervised with Wyke Stommel and Bogdana Huma).
 
-### Teaching Development
+### Professional Development
 
 I obtained the **University Teaching Qualification** in 2023. My professional development in teaching continues through further training and peer exchange. For example, I completed the course **Supervising PhDs** at Radboud University in 2026 and I am a member of a regular intervision group.
 
