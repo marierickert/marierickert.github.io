@@ -11,12 +11,19 @@ profile:
   image: marie.jpeg
   image_circular: false # crops the image to make it circular
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Linguistic Anthropologist specializing in Linguistic Diversity. Currently, I am a final year PhD candidate at the Faculty of Arts and Social Sciences, Maastricht University and the Institute of Dutch Philology, University of Münster. My research approaches social interaction as mediated by and simultaneously producing experiences, identifications and ideologies, grounded in the intersection of language and culture. I am interested in the ways in which multilingualism takes shape in sociocultural contexts, with a specific emphasis on regional and other minority languages, language practices in educational settings, and the role of language in shaping processes of identification.
 
-My current project focuses on children’s and teachers’ participation in language practices in in linguistically diverse Early Childcare and Education on both sides of the German-Dutch border. The project is conducted in the scope of LIMES, funded by the European Commission’s Marie-Curie COFUND programme. It examines how language policies, language ideologies and language hierarchies mutually shape each other as well as toddlers’ linguistic socialization, against the background of the region’s linguistic diversity. I explore this this by means of ethnography; combining long-term fieldwork in Early Childhood Education and Care, participant observation and interviews with audio and video recordings, drawing on linguistic anthropology and multimodal conversation analysis.
+I am an interdisciplinary qualitative researcher interested in how social interaction is organized in everyday contexts. My work spans a range of domains, including education, digital environments, and healthcare, and highlights how professional practices, from teaching to advice-giving, and social relationships are constructed through interaction. 
 
-I hold a M.Sc. Social and Cultural Anthropology from the University of Amsterdam and a B.A. in Cultural Studies with a minor in Educational Sciences from the University of Bremen.
+I like to work with:
+
+- Linguistic Ethnography, because it enables rich, contextually grounded accounts of social practices and because I enjoy ethnographic fieldwork.
+- Conversation Analysis, because it provides tools to analyze the fine-grained organization of interaction and because it satisfies me to find order in the details.
+- Video-based methods, because they make visible the multimodal and embodied dimensions of social interaction and because I can rewind videos until they start to make sense.
+
+I am currently a postdoctoral researcher at iHub and the Centre for Language Studies, and a lecturer in the Department of Language and Communication at Radboud University. I previously held positions as a visiting researcher at NL Lab/KNAW (2022-2023), a teaching secondee at the University of Münster (2021-2022), and a PhD candidate at Maastricht University (2020-2024).
+
+My PhD thesis, Shaping Participation: Children’s and Teachers’ Language Practices in Linguistically Diverse Early Childhood Education and Care, was a double degree between Maastricht University and the University of Münster and received the distinction summa cum laude in Münster (2024).
