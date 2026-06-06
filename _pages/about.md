@@ -1,34 +1,38 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: marie_2025.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Nijmegen, The Netherlands.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an **interdisciplinary qualitative researcher** interested in how **social interaction** is organized in everyday contexts. My work spans a range of domains, including education, digital environments, and healthcare, and highlights how professional practices, from teaching to advice-giving, and social relationships are constructed through interaction.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I like to work with:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Linguistic Ethnography**, because it enables rich, contextually grounded accounts of social practices *and because I enjoy ethnographic fieldwork.*
+- **Conversation Analysis**, because it provides tools to analyze the fine-grained organization of interaction *and because it satisfies me to find order in the details.*
+- **Video-based methods**, because they make visible the multimodal and embodied dimensions of social interaction *and because I can rewind videos until they start to make sense.*
+
+I am currently a **postdoctoral researcher** at iHub and the Centre for Language Studies, and a **lecturer** in the Department of Language and Communication at Radboud University. I previously held positions as a visiting researcher at NL Lab/KNAW (2022-2023), a teaching secondee at the University of Münster (2021-2022), and a PhD candidate at Maastricht University (2020-2024).
+
+My PhD thesis, *Shaping Participation: Children’s and Teachers’ Language Practices in Linguistically Diverse Early Childhood Education and Care*, was a double degree between Maastricht University and the University of Münster and received the distinction *summa cum laude* in Münster (2024).
