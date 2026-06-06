@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /blog/
-title: Societal Impact
-# description: Public activities and outreach to diverse audiences.
-img: assets/img/collage.png
+title: Teaching
+description:
 nav: true
 nav_order: 4
 ---
@@ -26,11 +25,11 @@ I regularly speak at events for different target groups. Examples include:
 ### Popularizing Publications
 
 In my popularizing publications, I aim not only to share research findings, but also to make research processes visible. Examples include my blog [*Taaldiversiteit op de kinderopvang*](https://taalwijs.nu/2024/05/21/taaldiversiteit-op-de-kinderopvang/) on taalwijs.nu, and my contribution to [*The Stories We Tell*](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/catalog/the-stories-we-tell/) and its Dutch edition [*Van bang in de Bijlmer tot blij met de tandarts*](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/catalog/van-bang-in-de-bijlmer-tot-blij-met-de-tandarts/), edited by Elsje Fourie and Christin Hoene.
-<!-- 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/collage.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-</div> -->
+</div>

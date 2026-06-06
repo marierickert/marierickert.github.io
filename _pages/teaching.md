@@ -2,9 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 3
+calendar: false
 ---
 
 I am an experienced university teacher with a broad and interdisciplinary teaching profile across **language, communication, and sociolinguistics**. I have contributed to courses in Dutch and English at universities in Germany and the Netherlands in roles including **teaching, coordination, and course (co-)design**.
