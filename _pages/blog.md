@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /societal_impact/
+permalink: /blog/
 title: Societal Impact
 # description: Public activities and outreach to diverse audiences.
 img: assets/img/collage.png
