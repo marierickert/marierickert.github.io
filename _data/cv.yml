@@ -9,16 +9,16 @@ cv:
   social_networks: []
 
   address:
-    street: ""
+    street: Houtlaan 4 
     city: Nijmegen
     region: Gelderland
-    postalCode: ""
+    postalCode: 6525 XZ
     countryCode: NL
 
   sections:
     Education:
       - institution: Maastricht University and University of Münster
-        location: The Netherlands and Germany
+        location: NL / DE
         area: Linguistic Anthropology
         studyType: PhD double degree
         start_date: "2020"
@@ -26,11 +26,11 @@ cv:
         score: summa cum laude in Münster
         courses: ""
         highlights:
-          - PhD awarded through Maastricht University, Department of Literature and Arts, and University of Münster, Institute of Dutch Philology.
+          - PhD awarded through Maastricht University, Department of Literature and Arts, and University of Münster, Institute of Dutch Philology
           - "Thesis titled “Shaping participation – Linguistic Diversity in Early Childhood Education and Care” under the supervision of Prof. Leonie Cornips, Prof. Gunther De Vogelaer and Dr. Christine Arnold."
 
       - institution: University of Amsterdam
-        location: Amsterdam, The Netherlands
+        location: Amsterdam, NL
         area: Social and Cultural Anthropology
         studyType: MSc
         start_date: "2018"
@@ -38,11 +38,11 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Completed MSc in Social and Cultural Anthropology at the Faculty of Social and Behavioral Sciences.
+          - Completed MSc in Social and Cultural Anthropology at the Faculty of Social and Behavioral Sciences
           - "Thesis titled “The threshold of Second Language Acquisition. Migrant’s liminal experiences of learning Dutch” under the supervision of Dr. Vincent de Rooij."
 
       - institution: University of Bremen
-        location: Bremen, Germany
+        location: Bremen, DE
         area: Cultural Studies and Educational Sciences
         studyType: BA
         start_date: "2014"
@@ -50,60 +50,60 @@ cv:
         score: cum laude
         courses: ""
         highlights:
-          - Major in Cultural Studies and minor in Educational Sciences.
+          - Major in Cultural Studies and minor in Educational Sciences
           - "Thesis titled “Everyday practices of translingual agency. An empirical anthropological analysis of French speaking migrants.”"
 
     Experience:
       - company: Radboud University, Department of Language and Communication
         position: 0.2 FTE Lecturer
-        location: Nijmegen, The Netherlands
+        location: Nijmegen, NL
         start_date: "2025-09"
         end_date: present
-        summary: Teaching and course development.
+        summary: Teaching and course development
         highlights:
-          - Teaching.
-          - Course development.
+          - Teaching
+          - Course development
 
       - company: Radboud University, Centre for Language Studies and iHub
         position: Postdoctoral researcher
-        location: Nijmegen, The Netherlands
+        location: Nijmegen, NL
         start_date: "2024-02"
         end_date: present
-        summary: Postdoctoral research on digital tools in language learning.
+        summary: Postdoctoral research on digital tools in language learning
         highlights:
-          - Project - Digital Tools in Language Learning.
-          - Supervisor - Prof. Wyke Stommel.
+          - Project - Digital Tools in Language Learning
+          - Supervisor - Prof. Wyke Stommel
 
       - company: Maastricht University, Department of Literature and Arts
         position: PhD candidate
-        location: Maastricht, The Netherlands
+        location: Maastricht, NL
         start_date: "2020-02"
         end_date: "2024-01"
-        summary: Doctoral research on children’s and teachers’ language practices in linguistically diverse early childhood education and care.
+        summary: Doctoral research on children’s and teachers’ language practices in linguistically diverse early childhood education and care
         highlights:
           - "Project - “Shaping participation - Children’s and Teachers’ Language Practices in Linguistically Diverse Early Childhood Education and Care”."
-          - Supervisors - Prof. Leonie Cornips, Prof. Gunther De Vogelaer and Dr. Christine Arnold.
-          - Funding - European Commission’s Marie-Curie COFUND program in the scope of the LIMES project.
+          - Supervisors - Prof. Leonie Cornips, Prof. Gunther De Vogelaer and Dr. Christine Arnold
+          - Funding - European Commission’s Marie-Curie COFUND program in the scope of the LIMES project
 
       - company: KNAW Humanities Cluster, NL Lab
         position: Guest researcher
-        location: Amsterdam, The Netherlands
+        location: Amsterdam, NL
         start_date: "2022-12"
         end_date: "2023-11"
-        summary: Guest research appointment focused on grant writing and research dissemination.
+        summary: Guest research appointment focused on grant writing and research dissemination
         highlights:
-          - Grant writing.
-          - Research dissemination.
+          - Grant writing
+          - Research dissemination
 
       - company: University of Münster, Institute of Dutch Philology
         position: Visiting Scholar
-        location: Münster, Germany
+        location: Münster, DE
         start_date: "2021-09"
         end_date: "2022-02"
-        summary: Visiting scholar appointment involving teaching and course development.
+        summary: Visiting scholar appointment involving teaching and course development
         highlights:
-          - Visiting scholar.
-          - Course development and teaching.
+          - Visiting scholar
+          - Course development and teaching
 
     Awards:
       - title: Workshop organization grant
@@ -125,46 +125,35 @@ cv:
           - Maastricht University
         date: "2023"
         awarder: Maastricht University
-        summary: For research dissemination to children.
+        summary: For research dissemination to children
 
       - title: Research Valorization Fund
         authors:
           - Maastricht University Faculty of Arts and Social Sciences
         date: "2022"
         awarder: Maastricht University Faculty of Arts and Social Sciences
-        summary: For the creation of a children’s book as research dissemination.
+        summary: For the creation of a children’s book as research dissemination
 
       - title: DIA Stipend
         authors:
           - Duitslanddesk
         date: "2021"
         awarder: Duitslanddesk
-        summary: For fieldwork in a kindergarten in Germany.
+        summary: For fieldwork in a kindergarten in Germany
 
       - title: Ibn Battuta Merit Scholarship for Peace and Diplomacy
         authors:
           - Qalam wa Lahw Centre
         date: "2019-01 to 2019-04"
         awarder: Ibn Battuta Merit Scholarship
-        summary: Full stipend for full time Arabic classes at Qalam wa Lahw Centre, Rabat, Morocco.
+        summary: Full stipend for full time Arabic classes at Qalam wa Lahw Centre, Rabat, Morocco
 
       - title: German Academic Scholarship Foundation
         authors:
           - Studienstiftung des Deutschen Volkes
         date: "2015 to 2019"
         awarder: Studienstiftung des Deutschen Volkes
-        summary: Full student scholarship.
-
-    Skills:
-      - name: Qualitative research
-        level: ""
-        icon: ""
-        keywords: Linguistic Ethnography, Conversation Analysis, Linguistic Anthropology, Video-based Methods, Interaction Analysis
-
-      - name: Language and education research
-        level: ""
-        icon: ""
-        keywords: Linguistic Diversity, Early Childhood Education and Care, Language Learning, Second Language Acquisition, Digital Tools
+        summary: Full student scholarship
 
     Languages:
       - name: German
@@ -180,9 +169,18 @@ cv:
         summary: C1
 
       - name: Arabic
-        summary: B1 or B2
+        summary: B1
 
     Interests:
       - name: Interaction in education
         icon: ""
-        keywords: Linguistic Diversity, Classroom Interaction, Digital Tools, Language Learning, Knowledge Co-creation
+        keywords:
+      - name: Social Interaction
+        icon: ""
+        keywords: 
+      - name: Positionality
+        icon: ""
+        keywords:
+      - name: Linguistic Diversity
+        icon: ""
+        keywords:
