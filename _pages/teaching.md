@@ -12,27 +12,27 @@ I am an experienced university teacher with a broad and interdisciplinary teachi
 
 ### Courses
 
-- **Maastricht University** — *B.A. European Studies*  
+- **Maastricht University** — _B.A. European Studies_  
   **After Babel – Language Policies in Europe** (2020)
 
-- **University of Münster** — *B.A. Nederlandse Taal en Cultuur*  
+- **University of Münster** — _B.A. Nederlandse Taal en Cultuur_  
   **Talige praktijken en taalbeleid in een diverse samenleving** (2021/22)
 
-- **Radboud University** — *B.A. Communicatie- en Informatiewetenschappen & B.A. Taalkunde*  
+- **Radboud University** — _B.A. Communicatie- en Informatiewetenschappen & B.A. Taalkunde_  
   **Interactie-Analyse** (2024)
 
-- **Radboud University** — *B.A. International Business Communication*  
+- **Radboud University** — _B.A. International Business Communication_  
   **Digital Communication** (2025)
 
 I also regularly deliver invited guest lectures and workshops at universities and international summer schools on topics related to my research.
 
 ### Selected Guest Lectures and Workshops
 
-- At the **PhD Summer School *Analyzing Classroom Interaction*** at the **University of Groningen**, I delivered the workshop **“An Introduction to Linguistic Ethnography”** (invited by Myrte Gosen, 2025). I particularly enjoyed engaging with PhD researchers from a range of disciplinary backgrounds and discussing researcher positionality in their projects.
+- At the **PhD Summer School _Analyzing Classroom Interaction_** at the **University of Groningen**, I delivered the workshop **“An Introduction to Linguistic Ethnography”** (invited by Myrte Gosen, 2025). I particularly enjoyed engaging with PhD researchers from a range of disciplinary backgrounds and discussing researcher positionality in their projects.
 
-- At the **University of Duisburg-Essen**, in the course *Methoden und Theorien der Soziolinguistik*, I gave the guest lecture **“Linguistische Ethnographie über und mit Kindern”** (invited by Nantke Pecht, 2022). It was a pleasure to teach in German.
+- At the **University of Duisburg-Essen**, in the course _Methoden und Theorien der Soziolinguistik_, I gave the guest lecture **“Linguistische Ethnographie über und mit Kindern”** (invited by Nantke Pecht, 2022). It was a pleasure to teach in German.
 
-- At the **University of Münster**, in the course *Van Uk & Puk tot Nijntje en juf Roos: Educatieve media voor jonge taalleerders*, I taught the guest lecture **“Kinderopvang als arena voor taalsocialisatie: Ontluikende geletterdheid”** (invited by Dietha Koster, 2022). This gave me the opportunity to explore emerging literacy practices observed during my PhD fieldwork.
+- At the **University of Münster**, in the course _Van Uk & Puk tot Nijntje en juf Roos: Educatieve media voor jonge taalleerders_, I taught the guest lecture **“Kinderopvang als arena voor taalsocialisatie: Ontluikende geletterdheid”** (invited by Dietha Koster, 2022). This gave me the opportunity to explore emerging literacy practices observed during my PhD fieldwork.
 
 ### Supervision
 

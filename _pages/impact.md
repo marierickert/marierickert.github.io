@@ -12,7 +12,7 @@ Outreach to diverse audiences and knowledge valorization are an important aspect
 
 ### Children's Book
 
-Together with illustrator Léonie Smith, I created the bilingual children’s book [*Zing je mee? – Singst du mit?*](https://www.researchgate.net/publication/369387286_Zing_je_mee_Singst_du_mit). The book translates my article [*Singing in semiotic assemblages. Pre-schoolers’ use of songs in interaction*](https://doi.org/10.1016/j.lcsi.2022.100600) into a fun and engaging format that is accessible to toddlers.
+Together with illustrator Léonie Smith, I created the bilingual children’s book [_Zing je mee? – Singst du mit?_](https://www.researchgate.net/publication/369387286_Zing_je_mee_Singst_du_mit). The book translates my article [_Singing in semiotic assemblages. Pre-schoolers’ use of songs in interaction_](https://doi.org/10.1016/j.lcsi.2022.100600) into a fun and engaging format that is accessible to toddlers.
 
 Click [here]({{ "/assets/pdf/Zingjemee_Singstdumit_Publicversion.pdf" | relative_url }}) to download it.
 
@@ -26,7 +26,7 @@ I regularly speak at events for different target groups. Examples include:
 
 ### Popularizing Publications
 
-In my popularizing publications, I aim not only to share research findings, but also to make research processes visible. Examples include my blog [*Taaldiversiteit op de kinderopvang*](https://taalwijs.nu/2024/05/21/taaldiversiteit-op-de-kinderopvang/) on taalwijs.nu, and my contribution to [*The Stories We Tell*](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/catalog/the-stories-we-tell/) and its Dutch edition [*Van bang in de Bijlmer tot blij met de tandarts*](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/catalog/van-bang-in-de-bijlmer-tot-blij-met-de-tandarts/), edited by Elsje Fourie and Christin Hoene.
+In my popularizing publications, I aim not only to share research findings, but also to make research processes visible. Examples include my blog [_Taaldiversiteit op de kinderopvang_](https://taalwijs.nu/2024/05/21/taaldiversiteit-op-de-kinderopvang/) on taalwijs.nu, and my contribution to [_The Stories We Tell_](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/catalog/the-stories-we-tell/) and its Dutch edition [_Van bang in de Bijlmer tot blij met de tandarts_](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/catalog/van-bang-in-de-bijlmer-tot-blij-met-de-tandarts/), edited by Elsje Fourie and Christin Hoene.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">

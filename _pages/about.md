@@ -29,10 +29,10 @@ I am an **interdisciplinary qualitative researcher** interested in how **social 
 
 I like to work with:
 
-- **Linguistic Ethnography**, because it enables rich, contextually grounded accounts of social practices *and because I enjoy ethnographic fieldwork.*
-- **Conversation Analysis**, because it provides tools to analyze the fine-grained organization of interaction *and because it satisfies me to find order in the details.*
-- **Video-based methods**, because they make visible the multimodal and embodied dimensions of social interaction *and because I can rewind videos until they start to make sense.*
+- **Linguistic Ethnography**, because it enables rich, contextually grounded accounts of social practices _and because I enjoy ethnographic fieldwork._
+- **Conversation Analysis**, because it provides tools to analyze the fine-grained organization of interaction _and because it satisfies me to find order in the details._
+- **Video-based methods**, because they make visible the multimodal and embodied dimensions of social interaction _and because I can rewind videos until they start to make sense._
 
 I am currently a **postdoctoral researcher** at iHub and the Centre for Language Studies, and a **lecturer** in the Department of Language and Communication at Radboud University. I previously held positions as a visiting researcher at NL Lab/KNAW (2022-2023), a teaching secondee at the University of Münster (2021-2022), and a PhD candidate at Maastricht University (2020-2024).
 
-My PhD thesis, *Shaping Participation: Children’s and Teachers’ Language Practices in Linguistically Diverse Early Childhood Education and Care*, was a double degree between Maastricht University and the University of Münster and received the distinction *summa cum laude* in Münster (2024).
+My PhD thesis, _Shaping Participation: Children’s and Teachers’ Language Practices in Linguistically Diverse Early Childhood Education and Care_, was a double degree between Maastricht University and the University of Münster and received the distinction _summa cum laude_ in Münster (2024).

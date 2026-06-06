@@ -9,7 +9,7 @@ cv:
   social_networks: []
 
   address:
-    street: Houtlaan 4 
+    street: Houtlaan 4
     city: Nijmegen
     region: Gelderland
     postalCode: 6525 XZ
@@ -105,7 +105,7 @@ cv:
           - Visiting scholar
           - Course development and teaching
 
-    Grants:
+    Awards:
       - title: Workshop organization support
         authors:
           - Center for Language Studies, Radboud University
