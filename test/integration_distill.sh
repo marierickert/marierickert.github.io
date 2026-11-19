@@ -4,11 +4,28 @@ set -euo pipefail
 tmp_dir="$(mktemp -d)"
 tmp_override="${tmp_dir}/distill-override.yml"
 tmp_site="${tmp_dir}/site"
+tmp_source="${tmp_dir}/source"
 
 cleanup() {
   rm -rf "${tmp_dir}"
 }
 trap cleanup EXIT
+
+rsync -a --exclude='/.git' --exclude='/vendor' --exclude='/node_modules' \
+  --exclude='/_site' --exclude='/.jekyll-cache' ./ "${tmp_source}/"
+mkdir -p "${tmp_source}/_posts"
+cat >"${tmp_source}/_posts/2021-01-01-integration-distill.md" <<'POST'
+---
+layout: distill
+title: Integration Distill
+permalink: /__integration/distill/
+giscus_comments: true
+tikzjax: true
+mermaid:
+  enabled: true
+---
+Distill integration fixture.
+POST
 
 cat >"${tmp_override}" <<'YAML'
 giscus:
@@ -16,11 +33,12 @@ giscus:
   repo_id: R_kgDOExample
   category: Comments
   category_id: DIC_kwDOExample
+external_sources: []
 YAML
 
-bundle exec jekyll build --config "_config.yml,${tmp_override}" -d "${tmp_site}" >/dev/null
+bundle exec jekyll build --source "${tmp_source}" --config "_config.yml,${tmp_override}" -d "${tmp_site}" >/dev/null
 
-distill_page="${tmp_site}/blog/2021/distill/index.html"
+distill_page="${tmp_site}/__integration/distill/index.html"
 
 if [ ! -f "${distill_page}" ]; then
   echo "distill page was not generated at ${distill_page}" >&2
